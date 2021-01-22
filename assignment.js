@@ -80,16 +80,3 @@ function megaFriend(array){
 
 
 
-///console
-
-var result = kilometerToMeter(197.4575875);
-console.log(result);
-
-var total = budgetCalculator(2, 5, 4);
-console.log(total);
-
-var totalCost = hotelCost(23);
-console.log(totalCost);
-
-var big = megaFriend(['taki', 'chamak', 'mahfuz', 'khairul Islam', 'suparna', ' ']);
-console.log(big);

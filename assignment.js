@@ -1,4 +1,4 @@
-
+// https://github.com/TKRchamak/assignmentForJS
 
 
 // 1. kilometerToMeter-part
@@ -76,7 +76,4 @@ function megaFriend(array){
     }
     return megaFriendName;
 }
-
-
-
 
